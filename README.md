@@ -46,6 +46,6 @@
 
 Já desenvolvi projetos práticos com consumo de APIs, organização de dados com JSON Server, uso de Bootstrap e Tailwind, além de implementar funcionalidades como carrosséis, páginas de detalhes, sistemas de favoritos, login/logout e gráficos.
 
-Gosto de aprender na prática, resolvendo problemas e buscando evoluir a cada projeto. Tenho facilidade para trabalhar em equipe, estou sempre aberto a novos desafios e busco contribuir com soluções que unam tecnologia e criatividade.
+Gosto de aprender na prática, resolvendo problemas e buscando evoluir a cada projeto. Tenho facilidade para trabalhar em equipe, estou sempre aberto a novos desafios e busco contribuir com soluções que unam tecnologia e criatividade.  
 
 </p>
