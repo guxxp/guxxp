@@ -44,3 +44,9 @@ Já desenvolvi projetos práticos com consumo de APIs, organização de dados co
 
 Gosto de aprender na prática, resolvendo problemas e buscando evoluir a cada projeto. Tenho facilidade para trabalhar em equipe, estou sempre aberto a novos desafios e busco contribuir com soluções que unam tecnologia e criatividade.  
 </p>
+<img 
+  align="center" 
+  alt="GitHub Streak" 
+  height="200" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=guxxp&theme=highcontrast" 
+/>
