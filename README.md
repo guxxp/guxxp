@@ -83,26 +83,9 @@ const desenvolvedor = {
 
 </div>
 
----
 
-## 🌟 Destaques Especiais
 
-<div align="center">
-  
-### 💡 Curiosidade
-```
-Linguagem favorita atual: JavaScript
-Área de interesse: Desenvolvimento Web e Mobile
-Meta atual: Contribuir mais para projetos open source
-```
 
-### 🎮 Quando não estou codando
-- 📚 Estudando novas tecnologias e frameworks
-- 🎵 Assistindo tutoriais e cursos online
-- 🎯 Participando de comunidades de desenvolvimento
-- 🎲 Jogando e explorando novas ideias de projetos
-
-</div>
 
 ---
 
@@ -120,7 +103,7 @@ Meta atual: Contribuir mais para projetos open source
 
 <div align="center">
   
-### 💻 "A melhor maneira de prever o futuro é criá-lo"
+### 💻 "um sonho é caro, mas desistir custa um sonho"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guxxp&color=00D9FF&style=for-the-badge)
 
