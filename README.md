@@ -16,8 +16,8 @@ const desenvolvedor = {
     localizacao: "Brasil 🇧🇷",
     area: "Desenvolvimento Full Stack",
     linguagens: ["JavaScript", "Python", "C#"],
-    ferramentas: ["VS Code", "Git","],
-    foco_atual: " Aprimorando skills em desenvolvimento fullstack",
+    ferramentas: ["VS Code", "Git"],
+    foco_atual: "Aprimorando skills em desenvolvimento fullstack",
     hobby: "Explorar novas tecnologias e contribuir com a comunidade dev"
 };
 ```
@@ -33,10 +33,8 @@ const desenvolvedor = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,14 +76,9 @@ const desenvolvedor = {
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=guxxp&repo=repositorio1&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/guxxp/repositorio1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=guxxp&repo=repositorio2&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/guxxp/repositorio2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=guxxp&repo=guxxp&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/guxxp/guxxp)
 
 </div>
-
-
-
-
 
 ---
 
@@ -114,5 +107,5 @@ const desenvolvedor = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/guxxp/guxxp/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
