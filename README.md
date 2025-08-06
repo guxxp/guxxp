@@ -15,9 +15,9 @@ const desenvolvedor = {
     nome: "guxxp",
     localizacao: "Brasil 🇧🇷",
     area: "Desenvolvimento Full Stack",
-    linguagens: ["JavaScript", "Python", "Java", "C#"],
-    ferramentas: ["VS Code", "Git", "Node.js", "React"],
-    foco_atual: "Aprimorando skills em desenvolvimento web e mobile",
+    linguagens: ["JavaScript", "Python", "C#"],
+    ferramentas: ["VS Code", "Git","],
+    foco_atual: "Aprimorando skills em desenvolvimento fullstack",
     hobby: "Explorar novas tecnologias e contribuir com a comunidade dev"
 };
 ```
