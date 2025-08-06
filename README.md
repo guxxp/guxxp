@@ -49,3 +49,8 @@ Gosto de aprender na prática, resolvendo problemas e buscando evoluir a cada pr
   height="200" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=guxxp&theme=highcontrast" 
 />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
