@@ -17,7 +17,7 @@ const desenvolvedor = {
     area: "Desenvolvimento Full Stack",
     linguagens: ["JavaScript", "Python", "C#"],
     ferramentas: ["VS Code", "Git","],
-    foco_atual: "Aprimorando skills em desenvolvimento fullstack",
+    foco_atual: " Aprimorando skills em desenvolvimento fullstack",
     hobby: "Explorar novas tecnologias e contribuir com a comunidade dev"
 };
 ```
