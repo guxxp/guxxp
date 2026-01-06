@@ -31,7 +31,7 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
    <img src="/img/img3.png" width="15"/>   <em><b> Estudando na Pontifícia Universidade Católica (PUC)</b></em> <br/>
    <img src="/img/img4.png" width="15"/>   <em><b> Apaixonado por IA e Dados </b></em><br/>
    <img src="/img/img2.png" width="15"/>   <em><b> Desenvolvendo Projetos... </b></em><br/>
-   <img src="/img/img1.png" width="15"/>   <em><b> Competidor em desafios</b></em><br/>
+   <img src="/img/img1.png" width="15"/>   <em><b> Competidor em desafios    </b></em><br/>
 </p>
 
 <br/>
