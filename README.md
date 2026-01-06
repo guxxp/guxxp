@@ -36,7 +36,7 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/img/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="/img/title2.png" width="25"/> <em> Tecnologias </em> </h2>
 
 <p align="center">
   
