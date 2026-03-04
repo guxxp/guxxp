@@ -60,16 +60,19 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
 
 <h2 align="center""> <img src="/img/title3.png" width="25"/> <em> Estatisticas </em> </h2>
 
-<div align = "center"> 
+![GitHub
+Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=guxxp&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
 
 
-<br/><br/>
- ![](https://nirzak-streak-stats.vercel.app/?user=guxxp&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+![GitHub
+Streak](https://nirzak-streak-stats.vercel.app/?user=guxxp&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guxxp&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
-</div>
+
+![Top
+Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guxxp&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff)
 
 
 
