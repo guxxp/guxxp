@@ -68,10 +68,6 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
 
 <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=guxxp&theme=dark&background=000000&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&currStreakLabel=ffffff"/>
 
-</p>
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guxxp&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guxxp&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 
 </p>
