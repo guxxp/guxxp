@@ -62,18 +62,6 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
 
 <h2 align="center"> <img src="/img/title3.png" width="25"/> <em> Estatisticas </em> </h2>
 
-<p align="center">
-
-## 📊 My GitHub Journey
-
-<div align="center">
-  <a href="https://github.com/guxxp?tab=repositories">
-    <img src="assets/github-journey.svg" alt="Gustavo's journey from software development foundations and relational databases toward cybersecurity" width="900" />
-  </a>
-</div>
-
-## 📈 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/guxxp"><img height="180" src="https://github-stats-extended.vercel.app/api?username=guxp&amp;show_icons=true&amp;include_all_commits=true&amp;locale=en&amp;theme=github_dark&amp;hide_border=true" alt="Gustavo Ferreira GitHub statistics" /></a>
   
