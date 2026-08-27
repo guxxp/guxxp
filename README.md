@@ -62,15 +62,12 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
 
 <h2 align="center"> <img src="/img/title3.png" width="25"/> <em> Estatisticas </em> </h2>
 
-<div align="center">
-  <a href="https://github.com/guxxp"><img height="180" src="https://github-stats-extended.vercel.app/api?username=guxp&amp;show_icons=true&amp;include_all_commits=true&amp;locale=en&amp;theme=github_dark&amp;hide_border=true" alt="Gustavo Ferreira GitHub statistics" /></a>
-  
-  <a href="https://github.com/guxxp?tab=repositories"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guxxp&amp;layout=compact&amp;langs_count=6&amp;locale=en&amp;theme=github_dark&amp;hide_border=true" alt="Most used languages across Gutavo Ferreira repositories" /></a>
-</div>
 
----
-
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=guxxp&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=guxxp&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false"/>
+</p>
+</p>
   
 </div>
 
