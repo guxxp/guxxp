@@ -65,7 +65,7 @@ Atualmente estou trabalhando em alguns projetos pequenos e divertidos para coloc
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=guxxp&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=guxxp&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false"/>
+  
 </p>
 </p>
   
